@@ -1,7 +1,7 @@
 {
   "readonly": false,
-  "baseUrl": "http://localhost/",
-  "rootPath": "/",
+  "baseUrl": "http:/10.10.70.6/",
+  "rootPath": "home/elearnng/e-ZORL/",
   "port": 80,
   "dataDir": "../data/",
   "sharedDir": "../shared/",
@@ -31,7 +31,7 @@
     "nm": "<div class='intro'>Welcome to <strong>eZORL</strong>, a terminology management software that supports term creation, dictionaries, encyclopaedia, thessauri, glossaries, sound databases, folktales etc.</div><div class='point'><div class='title'><a href='doocs/introo.en/'>MSUNLI Language Digital Resources</a></div><div class='blurb'>A robust and scalable platform for digital resources and database management for Zimbabwe Officially Recognised Languages.</div></div><div class='point noblurb'><div class='title'><a href='doocs/infoo.en/'>Language Databases</a></div></div>"
   },
   "uilangDefault": "en",
-  "mailconfig": {"host": "localhost", "port": 465, "secure": false, "from": "noreply@localhost"},
+  "mailconfig": {"host": "10.10.70.6", "port": 465, "secure": false, "from": "noreply@localhost"},
   "licences": {
     "cc-by-4.0": {
       "title": "Creative Commons Attribution 4.0 International",
