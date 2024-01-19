@@ -1,7 +1,7 @@
 {
   "readonly": false,
-  "baseUrl": "http:/10.10.70.6/",
-  "rootPath": "home/elearnng/e-ZORL/",
+  "baseUrl": "/localhost/",
+  "rootPath": "/",
   "port": 80,
   "dataDir": "../data/",
   "sharedDir": "../shared/",
